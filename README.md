@@ -387,94 +387,100 @@ Mini-Jini (Mini)          | 542         | 12288
 Eye-Small (Sidekick)      | 543         | 4096
 Eye-Small (Mini)          | 543         | 12288
 ### Imaginators
-Skylander                                  | CharacterID | VariantID
--------------------------------------------|-------------|----------
-King Pen                                   | 601         | 20480
-Dark King Pen                              | 601         | 21506
-Tri-Tip                                    | 602         | 20480
-Legendary Tri-Tip                          | 602         | 21507
-Chopscotch                                 | 603         | 20480
-Candy-Coated Chopscotch                    | 603         | 21525
-Boom Bloom                                 | 604         | 20480
-Pit Boss                                   | 605         | 20480
-Legendary Pit Boss                         | 605         | 21507
-Barbella                                   | 606         | 20480
-Barbella (Pink?)                           | 606         | 20513
-Air Strike                                 | 607         | 20480
-Egg Bomber Air Strike                      | 607         | 21517
-Ember                                      | 608         | 20480
-Dec-Ember (???)                            | 608         | 20484
-Ambush                                     | 609         | 20480
-Dr. Krankcase                              | 610         | 20480
-Hood Sickle                                | 611         | 20480
-Steel Plated Hood Sickle                   | 611         | 21506
-Taw Kwon Crow                              | 612         | 20480
-Mystical Tae Kwon Crow                     | 612         | 21506
-Golden Queen                               | 613         | 20480
-Dark Golden Queen                          | 613         | 21506
-Wolfgang                                   | 614         | 20480
-Dark Wolfgang                              | 614         | 21506
-Pain-Yatta                                 | 615         | 20480
-Pain-Yatta (Rock Candy?)                   | 615         | 20513
-Mysticat                                   | 616         | 20480
-Starcast                                   | 617         | 20480
-Starcast (Clear/Happy Birthday Ben?)       | 617         | 20513
-Buckshot                                   | 618         | 20480
-Heartbreaker Buckshot (UNRELEASED)         | 618         | 21516
-Aurora                                     | 619         | 20480
-Solar Flare Aurora                         | 619         | 21506
-Flare Wolf                                 | 620         | 20480
-Hard-Boiled Flare Wolf                     | 620         | 21517
-Chompy Mage                                | 621         | 20480
-Jingle Bell Chompy Mage                    | 621         | 21518
-Bad Juju                                   | 622         | 20480
-Mystical Bad Juju                          | 622         | 21506
-Grave Clobber                              | 623         | 20480
-Blaster-Tron                               | 624         | 20480
-Ro-Bow                                     | 625         | 20480
-Chain Reaction                             | 626         | 20480
-Chain Reaction (Orange?)                   | 626         | 20513
-Kaos                                       | 627         | 20480
-Wild Storm                                 | 628         | 20480
-Tidepool                                   | 629         | 20480
-Crash Bandicoot                            | 630         | 20480
-Dr. Neo Cortex                             | 631         | 20480
-Create Your Own Skylander (CYOS, only?)    | 661         | 20484
-Magic Creation Crystal (Pyramid)           | 680         | 20996
-Magic Creation Crystal (Lantern)           | 680         | 21000
-Magic Creation Crystal (Legendary Lantern) | 680         | 22024
-Magic Creation Crystal (Claw)              | 680         | 21019
-Water Creation Crystal (Armor)             | 681         | 21012
-Water Creation Crystal (Fanged)            | 681         | 21016
-Water Creation Crystal (Rocket)            | 681         | 21020
-Air Creation Crystal (Angel)               | 682         | 20994
-Air Creation Crystal (Lantern)             | 682         | 20999
-Air Creation Crystal (UNRELEASED Acorn)    | 682         | 21010
-Undead Creation Crystal (Lantern)          | 683         | 21001
-Undead Creation Crystal (Fanged)           | 683         | 21015
-Undead Creation Crystal (Claw)             | 683         | 21017
-Tech Creation Crystal (UNRELEASED Pyramid) | 684         | 20997
-Tech Creation Crystal (Reactor)            | 684         | 21005
-Tech Creation Crystal (Armor)              | 684         | 21013
-Fire Creation Crystal (UNRELEASED Angel)   | 685         | 20995
-Fire Creation Crystal (Reactor)            | 685         | 21007
-Fire Creation Crystal (Acorn)              | 685         | 21009
-Earth Creation Crystal (UNRELEASED Rune)   | 686         | 21004
-Earth Creation Crystal (Armor)             | 686         | 21011
-Earth Creation Crystal (Rocket)            | 686         | 21021
-Life Creation Crystal (Acorn)              | 687         | 21008
-Life Creation Crystal (Legendary Acorn)    | 687         | 22032
-Life Creation Crystal (Claw)               | 687         | 21018
-Life Creation Crystal (Rocket)             | 687         | 21022
-Life Creation Crystal (Rune)               | 687         | 21023
-Dark Creation Crystal (Pyramid)            | 688         | 20998
-Dark Creation Crystal (Rune)               | 688         | 21002
-Dark Creation Crystal (Reactor)            | 688         | 21006
-Light Creation Crystal (UNRELEASED Angel)  | 689         | 20993
-Light Creation Crystal (Rune)              | 689         | 21003
-Light Creation Crystal (Fanged)            | 689         | 21014
-Light Creation Crystal (Legendary Fanged)  | 689         | 22038
-Goldie                                     | 699         | 20480
+Skylander                                   | CharacterID | VariantID
+--------------------------------------------|-------------|----------
+King Pen                                    | 601         | 20480
+Dark King Pen                               | 601         | 21506
+Tri-Tip                                     | 602         | 20480
+Legendary Tri-Tip                           | 602         | 21507
+Chopscotch                                  | 603         | 20480
+Candy-Coated Chopscotch                     | 603         | 21525
+Boom Bloom                                  | 604         | 20480
+Pit Boss                                    | 605         | 20480
+Legendary Pit Boss                          | 605         | 21507
+Barbella                                    | 606         | 20480
+Barbella (Pink?)                            | 606         | 20513
+Air Strike                                  | 607         | 20480
+Egg Bomber Air Strike                       | 607         | 21517
+Ember                                       | 608         | 20480
+Dec-Ember (???)                             | 608         | 20484
+Ambush                                      | 609         | 20480
+Dr. Krankcase                               | 610         | 20480
+Hood Sickle                                 | 611         | 20480
+Steel Plated Hood Sickle                    | 611         | 21506
+Taw Kwon Crow                               | 612         | 20480
+Mystical Tae Kwon Crow                      | 612         | 21506
+Golden Queen                                | 613         | 20480
+Dark Golden Queen                           | 613         | 21506
+Wolfgang                                    | 614         | 20480
+Dark Wolfgang                               | 614         | 21506
+Pain-Yatta                                  | 615         | 20480
+Pain-Yatta (Rock Candy?)                    | 615         | 20513
+Mysticat                                    | 616         | 20480
+Starcast                                    | 617         | 20480
+Starcast (Clear/Happy Birthday Ben?)        | 617         | 20513
+Buckshot                                    | 618         | 20480
+Heartbreaker Buckshot (UNRELEASED)          | 618         | 21516
+Aurora                                      | 619         | 20480
+Solar Flare Aurora                          | 619         | 21506
+Flare Wolf                                  | 620         | 20480
+Hard-Boiled Flare Wolf                      | 620         | 21517
+Chompy Mage                                 | 621         | 20480
+Jingle Bell Chompy Mage                     | 621         | 21518
+Bad Juju                                    | 622         | 20480
+Mystical Bad Juju                           | 622         | 21506
+Grave Clobber                               | 623         | 20480
+Blaster-Tron                                | 624         | 20480
+Ro-Bow                                      | 625         | 20480
+Chain Reaction                              | 626         | 20480
+Chain Reaction (Orange?)                    | 626         | 20513
+Kaos                                        | 627         | 20480
+Wild Storm                                  | 628         | 20480
+Tidepool                                    | 629         | 20480
+Crash Bandicoot                             | 630         | 20480
+Dr. Neo Cortex                              | 631         | 20480
+Create Your Own Skylander (Card)            | 661         | 20481
+Create Your Own Skylander (Foil Card)       | 661         | 20482
+Create Your Own Skylander (Special Card)    | 661         | 20483
+Create Your Own Skylander (3D Print)        | 661         | 20484
+Create Your Own Skylander (Medium 3D Print) | 661         | 20485
+Create Your Own Skylander (Large 3D Print)  | 661         | 20486
+Create Your Own Skylander (Unique 3D Print) | 661         | 20487
+Magic Creation Crystal (Pyramid)            | 680         | 20996
+Magic Creation Crystal (Lantern)            | 680         | 21000
+Magic Creation Crystal (Legendary Lantern)  | 680         | 22024
+Magic Creation Crystal (Claw)               | 680         | 21019
+Water Creation Crystal (Armor)              | 681         | 21012
+Water Creation Crystal (Fanged)             | 681         | 21016
+Water Creation Crystal (Rocket)             | 681         | 21020
+Air Creation Crystal (Angel)                | 682         | 20994
+Air Creation Crystal (Lantern)              | 682         | 20999
+Air Creation Crystal (UNRELEASED Acorn)     | 682         | 21010
+Undead Creation Crystal (Lantern)           | 683         | 21001
+Undead Creation Crystal (Fanged)            | 683         | 21015
+Undead Creation Crystal (Claw)              | 683         | 21017
+Tech Creation Crystal (UNRELEASED Pyramid)  | 684         | 20997
+Tech Creation Crystal (Reactor)             | 684         | 21005
+Tech Creation Crystal (Armor)               | 684         | 21013
+Fire Creation Crystal (UNRELEASED Angel)    | 685         | 20993
+Fire Creation Crystal (Reactor)             | 685         | 21007
+Fire Creation Crystal (Acorn)               | 685         | 21009
+Earth Creation Crystal (UNRELEASED Rune)    | 686         | 21004
+Earth Creation Crystal (Armor)              | 686         | 21011
+Earth Creation Crystal (Rocket)             | 686         | 21021
+Life Creation Crystal (Acorn)               | 687         | 21008
+Life Creation Crystal (Legendary Acorn)     | 687         | 22032
+Life Creation Crystal (Claw)                | 687         | 21018
+Life Creation Crystal (Rocket)              | 687         | 21022
+Life Creation Crystal (Rune)                | 687         | 21023
+Dark Creation Crystal (Pyramid)             | 688         | 20998
+Dark Creation Crystal (Rune)                | 688         | 21002
+Dark Creation Crystal (Reactor)             | 688         | 21006
+Light Creation Crystal (UNRELEASED Angel)   | 689         | 20995
+Light Creation Crystal (Rune)               | 689         | 21003
+Light Creation Crystal (Fanged)             | 689         | 21014
+Light Creation Crystal (Legendary Fanged)   | 689         | 22038
+Goldie                                      | 699         | 20480
 ### SWAP Force
 Skylander                | CharacterID | VariantID
 -------------------------|-------------|----------
