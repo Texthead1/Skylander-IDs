@@ -36,8 +36,8 @@ Horn Blast Whirlwind              | 0           | 10245
 Whirlwind (Eon's Elite)           | 0           | 14352
 Sonic Boom                        | 1           | 0
 Sonic Boom (Series 2)             | 1           | 6145
-Sonic Boom (Sparkle/Glitter)      | 1           | 6163
 Sonic Boom (Glow in the Dark)     | 1           | 6161
+Sonic Boom (Sparkle/Glitter)      | 1           | 6163
 Warnado                           | 2           | 0
 Warnado (LightCore)               | 2           | 8710
 Lightning Rod                     | 3           | 0
@@ -53,8 +53,8 @@ Dino-Rang                         | 6           | 0
 Dino-Rang (Eon's Elite)           | 6           | 18448
 Prism Break                       | 7           | 0
 Prism Break (LightCore)           | 7           | 4614
-Prism Break (Series 2)            | 7           | 6145
 Prism Break (LightCore Rare, ???) | 7           | 4628
+Prism Break (Series 2)            | 7           | 6145
 Hyper Beam Prism Break            | 7           | 10245
 Sunburn                           | 8           | 0
 Eruptor                           | 9           | 0
@@ -63,8 +63,8 @@ Eruptor (Series 2)                | 9           | 6145
 Eruptor (White Flocked)           | 9           | 6164
 Lava Barf Eruptor                 | 9           | 10245
 Volcanic Eruptor                  | 9           | 11266
-Eruptor (Eon's Elite)             | 9           | 14352
 Eruptor (UNRELEASED Macy Day?)    | 9           | 14340
+Eruptor (Eon's Elite)             | 9           | 14352
 Ignitor                           | 10          | 0
 Ignitor (Series 2)                | 10          | 6145
 Legendary Ignitor                 | 10          | 7171
@@ -141,6 +141,8 @@ Cynder                            | 32          | 0
 Cynder (Series 2)                 | 32          | 6145
 Cynder (Glow in the Dark)         | 32          | 6161
 Phantom Cynder                    | 32          | 10245
+Cynder (UNRELEASED Series 4)      | 32          | 14345
+Cynder (UNRELEASED Eon's Elite)   | 32          | 14352
 DEBUG Minion                      | 999         | 0
 ### Giants
 Skylander                       | CharacterID | VariantID
@@ -156,11 +158,12 @@ Granite Crusher                 | 102         | 5634
 Flashwing                       | 103         | 4096
 Jade Flashwing                  | 103         | 5122
 Flashwing (LightCore)           | 103         | 8710
+Flashwing (UNRELEASED Series 2) | 103         | 14337
 Hot Head                        | 104         | 4614
 Hot Head (Sparkle/Glitter)      | 104         | 4627
 Hot Dog                         | 105         | 4096
+Hot Dog (Color Shift)           | 105         | 4117
 Molten Hot Dog                  | 105         | 5122
-Hot Dog (Colour Shift)          | 105         | 4117
 Fire Bone Hot Dog               | 105         | 10245
 Hot Dog (Red Frito-Lay)         | 105         | 10266
 Hot Dog (Green Frito-Lay)       | 105         | 10267
@@ -186,8 +189,8 @@ Sprocket (Heavy Metal?)         | 111         | 10265
 Tree Rex                        | 112         | 4614
 Gnarly Tree Rex                 | 112         | 5634
 Shroomboom                      | 113         | 4096
-Shroomboom (LightCore)          | 113         | 4614
 Shroomboom (Metallic)           | 113         | 4119
+Shroomboom (LightCore)          | 113         | 4614
 Sure Shot Shroomboom            | 113         | 14337
 Eye-Brawl                       | 114         | 4614
 Eye-Brawl (Iridescent)          | 114         | 4628
@@ -320,9 +323,9 @@ Ka-Boom                      | 459         | 12288
 Trail Blazer                 | 460         | 12288
 Torch                        | 461         | 12288
 Snap Shot                    | 462         | 12288
+Snap Shot (UNRELEASED Event) | 462         | 12292
 Dark Snap Shot               | 462         | 13314
 Instant Snap Shot            | 462         | 13327
-Snap Shot (UNRELEASED Event) | 462         | 12292
 Lob-Star                     | 463         | 12288
 Winterfest Lob-Star          | 463         | 13314
 Flip Wreck                   | 464         | 12288
@@ -493,8 +496,8 @@ Stone (Bronze?)          | 1003        | 8214
 Zone                     | 1004        | 8192
 Dark Zone                | 1004        | 9218
 Kraken                   | 1005        | 8192
-Jade Kraken              | 1005        | 9218
 Kraken (Gold?)           | 1005        | 8196
+Jade Kraken              | 1005        | 9218
 Bomb                     | 1006        | 8192
 Bomb (Gold?)             | 1006        | 8214
 Drilla                   | 1007        | 8192
@@ -512,8 +515,8 @@ Quickdraw Shake          | 1013        | 9218
 Blade                    | 1014        | 8192
 Nitro Blade              | 1014        | 9218
 Buckler                  | 1015        | 8192
+Buckler (Color Shift)    | 1015        | 8216
 Dark Buckler             | 1015        | 9218
-Buckler (Colour Shift)   | 1015        | 8216
 Template (Bottom)        | 1999        | 8192
 Boom                     | 2000        | 8192
 Free                     | 2001        | 8192
@@ -524,8 +527,8 @@ Doom (Gold?)             | 2003        | 8214
 Blast                    | 2004        | 8192
 Dark Blast               | 2004        | 9218
 Fire                     | 2005        | 8192
-Jade Fire                | 2005        | 9218
 Fire (Gold?)             | 2005        | 8196
+Jade Fire                | 2005        | 9218
 Stink                    | 2006        | 8192
 Stink (Silver?)          | 2006        | 8214
 Grilla                   | 2007        | 8192
@@ -543,8 +546,8 @@ Quickdraw Rattle         | 2013        | 9218
 Freeze                   | 2014        | 8192
 Nitro Freeze             | 2014        | 9218
 Wash                     | 2015        | 8192
+Wash (Color Shift)       | 2015        | 8216
 Dark Wash                | 2015        | 9218
-Wash (Colour Shift)      | 2015        | 8216
 Template (Top)           | 2999        | 8192
 Scratch                  | 3000        | 8192
 Pop Thorn                | 3001        | 8192
@@ -553,7 +556,7 @@ Dark Slobber Tooth       | 3002        | 9218
 Scorp                    | 3003        | 8192
 Scorp (Green?)           | 3003        | 8214
 Fryno                    | 3004        | 8192
-Hod Wild Fryno           | 3004        | 13313
+Hog Wild Fryno           | 3004        | 14337
 Smolderdash              | 3005        | 8192
 Smolderdash (LightCore)  | 3005        | 8710
 Snowderdash (???)        | 3005        | 8729
@@ -595,8 +598,8 @@ Reef Ripper                          | 3222        | 16384
 Burn-Cycle                           | 3223        | 16384
 Burn-Cycle (Patina)                  | 3223        | 16414
 Hot Streak                           | 3224        | 16384
-Dark Hot Streak                      | 3224        | 17410
 Hot Streak (Event Exclusive Edition) | 3224        | 16388
+Dark Hot Streak                      | 3224        | 17410
 Instant Hot Streak                   | 3224        | 17423
 Golden Hot Streak                    | 3224        | 17438
 Shark Tank                           | 3225        | 16384
@@ -643,7 +646,8 @@ Power Blue Splat                      | 3402        | 17666
 Stormblade                            | 3406        | 16640
 Snow-Brite Stormblade                 | 3406        | 16654
 Smash Hit                             | 3411        | 16640
-Steel Plated Smash Hit                | 3412        | 16640
+Steel Plated Smash Hit                | 3411        | 17666
+Spitfire                              | 3412        | 16640
 Dark Spitfire                         | 3412        | 17666
 Instant Spitfire                      | 3412        | 17679
 Hurricane Jet-Vac                     | 3413        | 16640
@@ -655,18 +659,18 @@ Dark Super Shot Stealth Elf           | 3415        | 17666
 Instant Super Shot Stealth Elf        | 3415        | 17679
 Shark Shooter Terrafin                | 3416        | 16640
 Bone Bash Roller Brawl                | 3417        | 16640
-Legendary Bone Bash Roller Brawl      | 3417        | 17667
 Bone Bash Roller Brawl (Dark Bronze?) | 3417        | 16670
+Legendary Bone Bash Roller Brawl      | 3417        | 17667
 Big Bubble Pop Fizz                   | 3420        | 16640
 Birthday Bash Big Bubble Pop Fizz     | 3420        | 17678
 Lava Lance Eruptor                    | 3421        | 16640
 Lava Lance Eruptor (Patina?)          | 3421        | 16670
-Deep Dive Gill Grunt                  | 3422        | 16670
-Turbo Charge Donkey Kong              | 3423        | 16670
+Deep Dive Gill Grunt                  | 3422        | 16640
+Turbo Charge Donkey Kong              | 3423        | 16640
 Dark Turbo Charge Donkey Kong         | 3423        | 17666
-Hammer Slam Bowser                    | 3424        | 16670
+Hammer Slam Bowser                    | 3424        | 16640
 Dark Hammer Slam Bowser               | 3424        | 17666
-Dive-Clops                            | 3425        | 16670
+Dive-Clops                            | 3425        | 16640
 Missile-Tow Dive-Clops                | 3425        | 17678
 Instant Dive-Clops                    | 3425        | 17679
 Astroblast                            | 3426        | 16640
