@@ -1,7 +1,7 @@
 # Skylander IDs
 Character IDs and Variant IDs for each and every Skylander figure, character, and doohickey, including unreleased ones.
 
-Each Variant ID is a 16 bit unsigned short, representing a bitfield of 6 different flags used to determine the figure in-game. More information in regards to how a Variant ID is composed can be found [here](https://github.com/NefariousTechSupport/Runes/blob/master/Docs/SkylanderFormat.md#sub-type). For simplicity sake, both IDs are shown as denary (base-10) integers.
+Each Variant ID is a 16-bit unsigned short, representing a bitfield of 6 different flags used to determine the figure in-game. More information in regard to how a Variant ID is composed can be found [here](https://github.com/NefariousTechSupport/Runes/blob/master/Docs/SkylanderFormat.md#sub-type). For simplicity's sake, both IDs are shown as denary (base-10) integers.
 
 If you see any figures with a "?" and own them, or any that just are not listed, feel free get in touch by submitting an issue; same goes for if there are any problems with the currently recorded info, please let me know, as it's possible that mistakes may be present. IDs stored and compiled by Portal-To-Unity, an in-progress Skylanders figure identifier. A known figure exempt from the list is the Legendary Sky Trophy, which I cannot personally verify at this moment in time.
 
