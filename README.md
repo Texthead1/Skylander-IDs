@@ -3,7 +3,7 @@ Character IDs and Variant IDs for each and every Skylander figure, character, an
 
 Each Variant ID is a 16-bit unsigned short, representing a bitfield of 6 different flags used to determine the figure in-game. More information in regard to how a Variant ID is composed can be found [here](https://github.com/NefariousTechSupport/Runes/blob/master/Docs/SkylanderFormat.md#sub-type). For simplicity's sake, both IDs are shown as denary (base-10) integers.
 
-If you see any figures with a "?" and own them, or any that just are not listed, feel free get in touch by submitting an issue; same goes for if there are any problems with the currently recorded info, please let me know, as it's possible that mistakes may be present. IDs stored and compiled by Portal-To-Unity, an in-progress Skylanders figure identifier. A known figure exempt from the list is the Legendary Sky Trophy, which I cannot personally verify at this moment in time.
+If you see any figures with a "?" and own them, or any that just are not listed, feel free get in touch by submitting an issue; same goes for if there are any problems with the currently recorded info, please let me know, as it's possible that mistakes may be present. IDs stored and compiled by Portal-To-Unity, an in-progress Skylanders figure identifier. A known figure exempt from the list is the Legendary Sky Trophy, which I cannot personally verify at this moment in time, and may not have a unique variant ID.
 
 Skylanders, Spyro, Activision, and other intellectual properties are owned by Activision Publishing Inc. or their respective owner(s); the information present here does not exist for any malicious intentions.
 
@@ -611,6 +611,7 @@ Dive Bomber                          | 3231        | 16384
 Spring Ahead Dive Bomber             | 3231        | 17410
 Instant Dive Bomber                  | 3231        | 17423
 Sky Slicer                           | 3232        | 16384
+Instant Sky Slicer (Imaginators)     | 3232        | 17423
 Clown Crusier                        | 3233        | 16384
 Dark Clown Crusier                   | 3233        | 17410
 Gold Rusher                          | 3234        | 16384
@@ -621,6 +622,7 @@ Sun Runner                           | 3236        | 16384
 Legendary Sun Runner                 | 3236        | 17311
 Sea Shadow                           | 3237        | 16384
 Dark Sea Shadow                      | 3237        | 17410
+Instant Sea Shadow (Imaginators)     | 3237        | 17423
 Splatter Splasher                    | 3238        | 16384
 Power Blue Splatter Splasher         | 3238        | 17410
 Soda Skimmer                         | 3239        | 16384
