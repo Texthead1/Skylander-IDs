@@ -79,7 +79,7 @@ Gill Grunt                        | 14          | 0
 Gill Grunt (Series 2)             | 14          | 6145
 Gill Grunt (Metallic?)            | 14          | 6167
 Anchors Away Gill Grunt           | 14          | 10245
-Tidal Wave Gill Grunt             | 14          | 14345
+Tidal Wave Gill Grunt             | 14          | 14341
 Gill Grunt (Eon's Elite)          | 14          | 14352
 Slam Bam                          | 15          | 0
 Slam Bam (Series 2)               | 15          | 6145
@@ -191,7 +191,7 @@ Gnarly Tree Rex                 | 112         | 5634
 Shroomboom                      | 113         | 4096
 Shroomboom (Metallic)           | 113         | 4119
 Shroomboom (LightCore)          | 113         | 4614
-Sure Shot Shroomboom            | 113         | 14337
+Sure Shot Shroomboom            | 113         | 14341
 Eye-Brawl                       | 114         | 4614
 Eye-Brawl (Iridescent)          | 114         | 4628
 Eye-Brawl (Pumpkin)             | 114         | 4629
@@ -556,7 +556,7 @@ Dark Slobber Tooth       | 3002        | 9218
 Scorp                    | 3003        | 8192
 Scorp (Green?)           | 3003        | 8214
 Fryno                    | 3004        | 8192
-Hog Wild Fryno           | 3004        | 14337
+Hog Wild Fryno           | 3004        | 14341
 Smolderdash              | 3005        | 8192
 Smolderdash (LightCore)  | 3005        | 8710
 Snowderdash (???)        | 3005        | 8729
