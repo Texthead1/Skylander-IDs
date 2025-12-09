@@ -53,7 +53,7 @@ Dino-Rang                         | 6           | 0
 Dino-Rang (Eon's Elite)           | 6           | 18448
 Prism Break                       | 7           | 0
 Prism Break (LightCore)           | 7           | 4614
-Prism Break (LightCore Rare, ???) | 7           | 4628
+Prism Break (LightCore Rare)      | 7           | 4628
 Prism Break (Series 2)            | 7           | 6145
 Hyper Beam Prism Break            | 7           | 10245
 Sunburn                           | 8           | 0
