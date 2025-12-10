@@ -599,7 +599,7 @@ Burn-Cycle                           | 3223        | 16384
 Burn-Cycle (Patina)                  | 3223        | 16414
 Hot Streak                           | 3224        | 16384
 Hot Streak (Event Exclusive Edition) | 3224        | 16388
-Hot Streak (Event Exclusive Edition) | 3224        | 16415
+Hot Streak (Mobile Starter Pack?)    | 3224        | 16415
 Dark Hot Streak                      | 3224        | 17410
 Instant Hot Streak                   | 3224        | 17423
 Golden Hot Streak                    | 3224        | 17438
