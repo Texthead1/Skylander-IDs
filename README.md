@@ -77,7 +77,7 @@ Wham-Shell                        | 13          | 0
 Wham-Shell (LightCore)            | 13          | 8710
 Gill Grunt                        | 14          | 0
 Gill Grunt (Series 2)             | 14          | 6145
-Gill Grunt (Metallic?)            | 14          | 6167
+Gill Grunt (Metallic)             | 14          | 6167
 Anchors Away Gill Grunt           | 14          | 10245
 Tidal Wave Gill Grunt             | 14          | 14341
 Gill Grunt (Eon's Elite)          | 14          | 14352
@@ -185,7 +185,7 @@ Legendary Bouncer               | 110         | 5635
 Sprocket                        | 111         | 4096
 Sprocket (Sparkle/Glitter)      | 111         | 4115
 Heavy Duty Sprocket             | 111         | 10245
-Sprocket (Heavy Metal?)         | 111         | 10265
+Sprocket (Heavy Metal)          | 111         | 10265
 Tree Rex                        | 112         | 4614
 Gnarly Tree Rex                 | 112         | 5634
 Shroomboom                      | 113         | 4096
@@ -344,7 +344,7 @@ Tread Head                   | 473         | 12288
 Bushwhack                    | 474         | 12288
 Legendary Bushwhack          | 474         | 13315
 Tuff Luck                    | 475         | 12288
-Tuff Luck (Clear?)           | 475         | 12317
+Tuff Luck (Clear)            | 475         | 12317
 Food Fight                   | 476         | 12288
 Dark Food Fight              | 476         | 13314
 Instant Food Fight           | 476         | 13327
