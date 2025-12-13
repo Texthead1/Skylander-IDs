@@ -199,89 +199,89 @@ Fright Rider                    | 115         | 4096
 Fright Rider (Glow in the Dark) | 115         | 4113
 Fright Rider (Halloween)        | 115         | 4117
 ### Toys For Bob Items/Traps
-Skylander                             | CharacterID | VariantID
---------------------------------------|-------------|----------
-Anvil Rain                            | 200         | 0
-Hidden Treasure                       | 201         | 0
-Platinum Hidden Treasure (UNRELEASED) | 201         | 4096
-Healing Elixir                        | 202         | 0
-Ghost Pirate Swords                   | 203         | 0
-Time Twister Hourglass                | 204         | 0
-Sky-Iron Shield                       | 205         | 0
-Winged Boots                          | 206         | 0
-Sparx the Dragonfly                   | 207         | 0
-Dragonfire Cannon                     | 208         | 4614
-Golden Dragonfire Cannon              | 208         | 5634
-Scorpion Striker Catapult             | 209         | 4614
-Biter's Bane (Magic Log Holder)       | 210         | 12290
-Sorcerous Skull (Magic Skull)         | 210         | 12296
-Axe of Illusion (Magic Axe)           | 210         | 12299
-Arcane Hourglass (Magic Hourglass)    | 210         | 12302
-Spell Slapper (Magic Totem)           | 210         | 12306
-Rune Rocket (Magic Rocket)            | 210         | 12309
-Tidal Tiki (Water Tiki)               | 211         | 12289
-Wet Walter (Water Log Holder)         | 211         | 12290
-Flood Flask (Water Jughead)           | 211         | 12294
-Legendary Flood Flask (Water Jughead) | 211         | 13318
-Soaking Staff (Water Angel)           | 211         | 12295
-Aqua Axe (Water Axe)                  | 211         | 12299
-Frost Helm (Water Flying Helmet)      | 211         | 12310
-Breezy Bird (Air Toucan)              | 212         | 12291
-Drafty Decanter (Air Jughead)         | 212         | 12294
-Tempest Timer (Air Hourglass)         | 212         | 12302
-Cloudy Cobra (Air Snake)              | 212         | 12304
-Storm Warning (Air Screamer)          | 212         | 12305
-Cyclone Sabre (Air Sword)             | 212         | 12312
-Spirit Sphere (Undead Orb)            | 213         | 12292
-Legendary Spirit Sphere (Undead Orb)  | 213         | 13316
-Spectral Skull (Undead Skull)         | 213         | 12296
-Legendary Spectral Skull (Undead Orb) | 213         | 13320
-Haunted Hatchet (Undead Axe)          | 213         | 12299
-Grim Gripper (Undead Hand)            | 213         | 12300
-Spooky Snake (Undead Snake)           | 213         | 12304
-Dream Piercer (Undead Captain's Hat)  | 213         | 12311
-Tech Totem (Tech Tiki)                | 214         | 12289
-Automatic Angel (Tech Angel)          | 214         | 12295
-Factory Flower (Tech Scepter)         | 214         | 12297
-Grabbing Gadget (Tech Hand)           | 214         | 12300
-Makers Mana (Tech Flying Helmet)      | 214         | 12310
-Topsy Techy (Tech Handstand)          | 214         | 12314
-Eternal Flame (Fire Torch)            | 215         | 12293
-Fire Flower (Fire Scepter)            | 215         | 12297
-Scorching Stopper (Fire Screamer)     | 215         | 12305
-Searing Spinner (Fire Totem)          | 215         | 12306
-Spark Speak (Fire Captain's Hat)      | 215         | 12311
-Blazing Belch (Fire Yawn)             | 215         | 12315
-Rock Hawk (Earth Toucan)              | 216         | 12291
-Banded Boulder (Earth Orb)            | 216         | 12292
-Slag Hammer (Earth Hammer)            | 216         | 12298
-Dust of Time (Earth Hourglass)        | 216         | 12302
-Spinning Sandstorm (Earth Totem)      | 216         | 12306
-Rubble Trouble (Earth Handstand)      | 216         | 12314
-Oak Eagle (Life Toucan)               | 217         | 12291
-Emerald Energy (Life Torch)           | 217         | 12293
-Weed Whacker (Life Hammer)            | 217         | 12298
-Seed Serpent (Life Snake)             | 217         | 12304
-Jade Blade (Life Sword)               | 217         | 12312
-Shrub Shrieker (Life Yawn)            | 217         | 12315
-Shadow Spider (Dark Spider)           | 218         | 12308
-Dark Dagger (Dark Sword)              | 218         | 12312
-Ghastly Grimace (Dark Handstand)      | 218         | 12314
-Heavenly Hawk (Light Hawk)            | 219         | 12303
-Shining Ship (Light Rocket)           | 219         | 12309
-Beam Scream (Light Yawn)              | 219         | 12315
-The Kaos Trap                         | 220         | 12318
-Ultimate Kaos Trap                    | 220         | 13343
-Hand of Fate                          | 230         | 12288
-Legendary Hand of Fate                | 230         | 13315
-Piggy Bank                            | 231         | 12288
-Rocket Ram                            | 232         | 12288
-Tiki Speaky                           | 233         | 12288
-Mystery Chest (Bronze)                | 235         | 20481
-Mystery Chest (Silver)                | 235         | 20482
-Mystery Chest (Gold)                  | 235         | 20483
-Mystery Chest (Cursed Tiki Temple)    | 235         | 20503
-Mystery Chest (Lost Imaginite Mines)  | 235         | 20505
+Skylander                              | CharacterID | VariantID
+---------------------------------------|-------------|----------
+Anvil Rain                             | 200         | 0
+Hidden Treasure                        | 201         | 0
+Platinum Hidden Treasure (UNRELEASED)  | 201         | 4096
+Healing Elixir                         | 202         | 0
+Ghost Pirate Swords                    | 203         | 0
+Time Twister Hourglass                 | 204         | 0
+Sky-Iron Shield                        | 205         | 0
+Winged Boots                           | 206         | 0
+Sparx the Dragonfly                    | 207         | 0
+Dragonfire Cannon                      | 208         | 4614
+Golden Dragonfire Cannon               | 208         | 5634
+Scorpion Striker Catapult              | 209         | 4614
+Biter's Bane (Magic Log Holder)        | 210         | 12290
+Sorcerous Skull (Magic Skull)          | 210         | 12296
+Axe of Illusion (Magic Axe)            | 210         | 12299
+Arcane Hourglass (Magic Hourglass)     | 210         | 12302
+Spell Slapper (Magic Totem)            | 210         | 12306
+Rune Rocket (Magic Rocket)             | 210         | 12309
+Tidal Tiki (Water Tiki)                | 211         | 12289
+Wet Walter (Water Log Holder)          | 211         | 12290
+Flood Flask (Water Jughead)            | 211         | 12294
+Legendary Flood Flask (Water Jughead)  | 211         | 13318
+Soaking Staff (Water Angel)            | 211         | 12295
+Aqua Axe (Water Axe)                   | 211         | 12299
+Frost Helm (Water Flying Helmet)       | 211         | 12310
+Breezy Bird (Air Toucan)               | 212         | 12291
+Drafty Decanter (Air Jughead)          | 212         | 12294
+Tempest Timer (Air Hourglass)          | 212         | 12302
+Cloudy Cobra (Air Snake)               | 212         | 12304
+Storm Warning (Air Screamer)           | 212         | 12305
+Cyclone Sabre (Air Sword)              | 212         | 12312
+Spirit Sphere (Undead Orb)             | 213         | 12292
+Legendary Spirit Sphere (Undead Orb)   | 213         | 13316
+Spectral Skull (Undead Skull)          | 213         | 12296
+Legendary Spectral Skull (Undead Skull)| 213         | 13320
+Haunted Hatchet (Undead Axe)           | 213         | 12299
+Grim Gripper (Undead Hand)             | 213         | 12300
+Spooky Snake (Undead Snake)            | 213         | 12304
+Dream Piercer (Undead Captain's Hat)   | 213         | 12311
+Tech Totem (Tech Tiki)                 | 214         | 12289
+Automatic Angel (Tech Angel)           | 214         | 12295
+Factory Flower (Tech Scepter)          | 214         | 12297
+Grabbing Gadget (Tech Hand)            | 214         | 12300
+Makers Mana (Tech Flying Helmet)       | 214         | 12310
+Topsy Techy (Tech Handstand)           | 214         | 12314
+Eternal Flame (Fire Torch)             | 215         | 12293
+Fire Flower (Fire Scepter)             | 215         | 12297
+Scorching Stopper (Fire Screamer)      | 215         | 12305
+Searing Spinner (Fire Totem)           | 215         | 12306
+Spark Speak (Fire Captain's Hat)       | 215         | 12311
+Blazing Belch (Fire Yawn)              | 215         | 12315
+Rock Hawk (Earth Toucan)               | 216         | 12291
+Banded Boulder (Earth Orb)             | 216         | 12292
+Slag Hammer (Earth Hammer)             | 216         | 12298
+Dust of Time (Earth Hourglass)         | 216         | 12302
+Spinning Sandstorm (Earth Totem)       | 216         | 12306
+Rubble Trouble (Earth Handstand)       | 216         | 12314
+Oak Eagle (Life Toucan)                | 217         | 12291
+Emerald Energy (Life Torch)            | 217         | 12293
+Weed Whacker (Life Hammer)             | 217         | 12298
+Seed Serpent (Life Snake)              | 217         | 12304
+Jade Blade (Life Sword)                | 217         | 12312
+Shrub Shrieker (Life Yawn)             | 217         | 12315
+Shadow Spider (Dark Spider)            | 218         | 12308
+Dark Dagger (Dark Sword)               | 218         | 12312
+Ghastly Grimace (Dark Handstand)       | 218         | 12314
+Heavenly Hawk (Light Hawk)             | 219         | 12303
+Shining Ship (Light Rocket)            | 219         | 12309
+Beam Scream (Light Yawn)               | 219         | 12315
+The Kaos Trap                          | 220         | 12318
+Ultimate Kaos Trap                     | 220         | 13343
+Hand of Fate                           | 230         | 12288
+Legendary Hand of Fate                 | 230         | 13315
+Piggy Bank                             | 231         | 12288
+Rocket Ram                             | 232         | 12288
+Tiki Speaky                            | 233         | 12288
+Mystery Chest (Bronze)                 | 235         | 20481
+Mystery Chest (Silver)                 | 235         | 20482
+Mystery Chest (Gold)                   | 235         | 20483
+Mystery Chest (Cursed Tiki Temple)     | 235         | 20503
+Mystery Chest (Lost Imaginite Mines)   | 235         | 20505
 ### Toys For Bob Expansions
 Skylander                | CharacterID | VariantID
 -------------------------|-------------|----------
@@ -292,8 +292,8 @@ Darklight Crypt          | 303         | 0
 Volcanic Vault           | 304         | 0
 Mirror of Mystery        | 305         | 12288
 Nightmare Express        | 306         | 12288
-Sunscraper Spire         | 307         | 12800
-Midnight Museum          | 308         | 12800
+Sunscraper Spire         | 307         | 12806
+Midnight Museum          | 308         | 12806
 Gryphon Park Observatory | 310         | 20480
 Enchanted Elven Forest   | 311         | 20480
 ### SSA Legendaries
