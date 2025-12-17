@@ -3,7 +3,7 @@ Character IDs and Variant IDs for each and every Skylander figure, character, an
 
 Each Variant ID is a 16-bit unsigned short, representing a bitfield of 6 different flags used to determine the figure in-game. More information in regard to how a Variant ID is composed can be found [here](https://github.com/NefariousTechSupport/Runes/blob/master/Docs/SkylanderFormat.md#sub-type). For simplicity's sake, both IDs are shown as denary (base-10) integers.
 
-If you see any figures with a "?" and own them, or any that just are not listed, feel free get in touch by submitting an issue; same goes for if there are any problems with the currently recorded info, please let me know, as it's possible that mistakes may be present. IDs stored and compiled by Portal-To-Unity, an in-progress Skylanders figure identifier. A known figure exempt from the list is the Legendary Sky Trophy, which I cannot personally verify at this moment in time, and may not have a unique variant ID.
+If you see any figures with a "?" and own them, or any that just are not listed, feel free get in touch by submitting an issue; same goes for if there are any problems with the currently recorded info, please let me know, as it's possible that mistakes may be present. IDs stored and compiled by Portal-To-Unity, an in-progress Skylanders figure identifier.
 
 Skylanders, Spyro, Activision, and other intellectual properties are owned by Activision Publishing Inc. or their respective owner(s); the information present here does not exist for any malicious intentions.
 
@@ -283,19 +283,20 @@ Mystery Chest (Gold)                   | 235         | 20483
 Mystery Chest (Cursed Tiki Temple)     | 235         | 20503
 Mystery Chest (Lost Imaginite Mines)   | 235         | 20505
 ### Toys For Bob Expansions
-Skylander                | CharacterID | VariantID
--------------------------|-------------|----------
-Dragon's Peak            | 300         | 0
-Empire of Ice            | 301         | 0
-Pirate Seas              | 302         | 0
-Darklight Crypt          | 303         | 0
-Volcanic Vault           | 304         | 0
-Mirror of Mystery        | 305         | 12288
-Nightmare Express        | 306         | 12288
-Sunscraper Spire         | 307         | 12806
-Midnight Museum          | 308         | 12806
-Gryphon Park Observatory | 310         | 20480
-Enchanted Elven Forest   | 311         | 20480
+Skylander                       | CharacterID | VariantID
+--------------------------------|-------------|----------
+Dragon's Peak                   | 300         | 0
+Empire of Ice                   | 301         | 0
+Pirate Seas                     | 302         | 0
+Darklight Crypt                 | 303         | 0
+Volcanic Vault                  | 304         | 0
+Mirror of Mystery               | 305         | 12288
+Nightmare Express               | 306         | 12288
+Sunscraper Spire                | 307         | 12806
+Midnight Museum (non-LightCore) | 308         | 12288
+Midnight Museum                 | 308         | 12806
+Gryphon Park Observatory        | 310         | 20480
+Enchanted Elven Forest          | 311         | 20480
 ### SSA Legendaries
 Skylander               | CharacterID | VariantID
 ------------------------|-------------|----------
@@ -308,7 +309,7 @@ Skylander                    | CharacterID | VariantID
 -----------------------------|-------------|----------
 Gusto                        | 450         | 12288
 Thunderbolt                  | 451         | 12288
-Thunderbolt (Clear?)         | 451         | 12317
+Thunderbolt (Clear)          | 451         | 12317
 Fling Kong                   | 452         | 12288
 Blades                       | 453         | 12288
 Legendary Blades             | 453         | 13315
@@ -352,7 +353,7 @@ High Five                    | 477         | 12288
 Krypt King                   | 478         | 12288
 Nitro Krypt King             | 478         | 13314
 Short Cut                    | 479         | 12288
-Short Cut (Clear?)           | 479         | 12317
+Short Cut (Clear)            | 479         | 12317
 Bat Spin                     | 480         | 12288
 Funny Bone                   | 481         | 12288
 Knight Light                 | 482         | 12288
@@ -402,7 +403,7 @@ Boom Bloom                                  | 604         | 20480
 Pit Boss                                    | 605         | 20480
 Legendary Pit Boss                          | 605         | 21507
 Barbella                                    | 606         | 20480
-Barbella (Pink?)                            | 606         | 20513
+Barbella (Pink)                             | 606         | 20513
 Air Strike                                  | 607         | 20480
 Egg Bomber Air Strike                       | 607         | 21517
 Ember                                       | 608         | 20480
@@ -418,7 +419,7 @@ Dark Golden Queen                           | 613         | 21506
 Wolfgang                                    | 614         | 20480
 Dark Wolfgang                               | 614         | 21506
 Pain-Yatta                                  | 615         | 20480
-Pain-Yatta (Rock Candy?)                    | 615         | 20513
+Pain-Yatta (Rock Candy)                     | 615         | 20513
 Mysticat                                    | 616         | 20480
 Starcast                                    | 617         | 20480
 Starcast (Clear/Happy Birthday Ben?)        | 617         | 20513
@@ -496,7 +497,7 @@ Stone (Bronze?)          | 1003        | 8214
 Zone                     | 1004        | 8192
 Dark Zone                | 1004        | 9218
 Kraken                   | 1005        | 8192
-Kraken (Gold?)           | 1005        | 8196
+Kraken (Gold)            | 1005        | 8196
 Jade Kraken              | 1005        | 9218
 Bomb                     | 1006        | 8192
 Bomb (Gold?)             | 1006        | 8214
@@ -527,10 +528,10 @@ Doom (Gold?)             | 2003        | 8214
 Blast                    | 2004        | 8192
 Dark Blast               | 2004        | 9218
 Fire                     | 2005        | 8192
-Fire (Gold?)             | 2005        | 8196
+Fire (Gold)              | 2005        | 8196
 Jade Fire                | 2005        | 9218
 Stink                    | 2006        | 8192
-Stink (Silver?)          | 2006        | 8214
+Stink (Silver)           | 2006        | 8214
 Grilla                   | 2007        | 8192
 Hoot                     | 2008        | 8192
 Enchanted Hoot           | 2008        | 9218
@@ -554,7 +555,7 @@ Pop Thorn                | 3001        | 8192
 Slobber Tooth            | 3002        | 8192
 Dark Slobber Tooth       | 3002        | 9218
 Scorp                    | 3003        | 8192
-Scorp (Green?)           | 3003        | 8214
+Scorp (Green)            | 3003        | 8214
 Fryno                    | 3004        | 8192
 Hog Wild Fryno           | 3004        | 14341
 Smolderdash              | 3005        | 8192
@@ -566,7 +567,7 @@ Jolly Bumble Blast       | 3006        | 9218
 Zoo Lou                  | 3007        | 8192
 Legendary Zoo Lou        | 3007        | 9219
 Dune Bug                 | 3008        | 8192
-Dune Bug (Red?)          | 3008        | 8196
+Dune Bug (Red)           | 3008        | 8196
 Star Strike              | 3009        | 8192
 Star Strike (LightCore)  | 3009        | 8710
 Enchanted Star Strike    | 3009        | 9730
@@ -580,7 +581,7 @@ Grim Creeper             | 3013        | 8192
 Grim Creeper (LightCore) | 3013        | 8710
 Legendary Grim Creeper   | 3013        | 9731
 Rip Tide                 | 3014        | 8192
-Rip Tide (Green?)        | 3014        | 8214
+Rip Tide (Green)         | 3014        | 8214
 Punk Shock               | 3015        | 8192
 Template Legacy          | 3999        | 8192
 ### Vicarious Visions Items/Vehicles
@@ -598,7 +599,7 @@ Reef Ripper                          | 3222        | 16384
 Burn-Cycle                           | 3223        | 16384
 Burn-Cycle (Patina)                  | 3223        | 16414
 Hot Streak                           | 3224        | 16384
-Hot Streak (Event Exclusive Edition) | 3224        | 16388
+Hot Streak (Exclusive Event Edition) | 3224        | 16388
 Hot Streak (Mobile Starter Pack?)    | 3224        | 16415
 Dark Hot Streak                      | 3224        | 17410
 Instant Hot Streak                   | 3224        | 17423
@@ -756,3 +757,26 @@ Skylander    | CharacterID | VariantID
 DEBUG Core   | 9990        | 12288
 DEBUG Giant  | 9991        | 12288
 DEBUG Ranger | 9992        | 12288
+## Credits
+- Fershock
+    - CYOS Character ID and providing a .dump from a 3D printed CYOS
+- Dead-Donutz
+    - Information about and .dump from a Flocked Springtime Trigger Happy
+- jackthebloke
+    - Midnight Museum/Sunscraper Spire fixes + non-LightCore Midnight Museum
+    - Metallic Gill Grunt
+- Scarlett/eclipse_kyo
+    - Heavy Metal Sprocket
+    - Crystal Tuff Luck
+    - Color Shift Wash
+- Blennz Fire
+    - Rock Candy Pain-Yatta
+- Whacky Zacky/Quazzazza
+    - Pink Barbella
+    - Clear Short Cut
+    - Clear Thunderbolt
+    - Silver Stink
+    - Gold Fire
+    - Green Riptide
+    - Green Scorp
+    - Red Dune Bug
