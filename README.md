@@ -762,9 +762,12 @@ DEBUG Ranger | 9992        | 12288
     - CYOS Character ID and providing a .dump from a 3D printed CYOS
 - Dead-Donutz
     - Information about and .dump from a Flocked Springtime Trigger Happy
+- BoomBringer
+    - LightCore Rare Prism Break information
 - jackthebloke
     - Midnight Museum/Sunscraper Spire fixes + non-LightCore Midnight Museum
     - Metallic Gill Grunt
+    - Providing a .dump from a LightCore Rare Prism Break
 - Scarlett/eclipse_kyo
     - Heavy Metal Sprocket
     - Crystal Tuff Luck
