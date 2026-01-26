@@ -284,7 +284,7 @@ Mystery Chest (Gold)                   | 235         | 20483
 Mystery Chest (Cursed Tiki Temple)     | 235         | 20503
 Mystery Chest (Lost Imaginite Mines)   | 235         | 20505
 
-\* Seemingly all Ultimate Kaos Traps appear to have been given a defective Variant ID, where an unused flag applied. I've decided to include the original ID found on the figures, as well as what *should* be the fixed version.
+\* Seemingly all Ultimate Kaos Traps appear to have been given a defective Variant ID, where an unused flag was applied. I've decided to include the original ID found on the figures, as well as what *should* be the fixed version.
 ### Toys For Bob Expansions
 Skylander                       | CharacterID | VariantID
 --------------------------------|-------------|----------
@@ -603,7 +603,7 @@ Burn-Cycle                           | 3223        | 16384
 Burn-Cycle (Patina)                  | 3223        | 16414
 Hot Streak                           | 3224        | 16384
 Hot Streak (Exclusive Event Edition) | 3224        | 16388
-Hot Streak (Mobile Starter Pack?)    | 3224        | 16415
+Hot Streak (Mobile Starter Pack)     | 3224        | 16415
 Dark Hot Streak                      | 3224        | 17410
 Instant Hot Streak                   | 3224        | 17423
 Golden Hot Streak                    | 3224        | 17438
@@ -771,11 +771,13 @@ DEBUG Ranger | 9992        | 12288
     - Midnight Museum/Sunscraper Spire fixes + non-LightCore Midnight Museum
     - Metallic Gill Grunt
     - Providing a .dump from a LightCore Rare Prism Break
-    - Ultimate Kaos Trap Variant ID info
+    - Ultimate Kaos Trap Variant ID defect info
+    - Mobile Hot Streak
 - Scarlett/eclipse_kyo
     - Heavy Metal Sprocket
     - Crystal Tuff Luck
     - Color Shift Wash
+    - Color Shift Buckler in-game info
 - Blennz Fire
     - Rock Candy Pain-Yatta
 - Whacky Zacky/Quazzazza
