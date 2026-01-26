@@ -271,7 +271,8 @@ Heavenly Hawk (Light Hawk)             | 219         | 12303
 Shining Ship (Light Rocket)            | 219         | 12309
 Beam Scream (Light Yawn)               | 219         | 12315
 The Kaos Trap                          | 220         | 12318
-Ultimate Kaos Trap                     | 220         | 13343
+Ultimate Kaos Trap*                    | 220         | 13599
+Ultimate Kaos Trap (Fixed)             | 220         | 13343
 Hand of Fate                           | 230         | 12288
 Legendary Hand of Fate                 | 230         | 13315
 Piggy Bank                             | 231         | 12288
@@ -282,6 +283,8 @@ Mystery Chest (Silver)                 | 235         | 20482
 Mystery Chest (Gold)                   | 235         | 20483
 Mystery Chest (Cursed Tiki Temple)     | 235         | 20503
 Mystery Chest (Lost Imaginite Mines)   | 235         | 20505
+
+\* Seemingly all Ultimate Kaos Traps appear to have been given a defective Variant ID, where an unused flag applied. I've decided to include the original ID found on the figures, as well as what *should* be the fixed version.
 ### Toys For Bob Expansions
 Skylander                       | CharacterID | VariantID
 --------------------------------|-------------|----------
@@ -768,6 +771,7 @@ DEBUG Ranger | 9992        | 12288
     - Midnight Museum/Sunscraper Spire fixes + non-LightCore Midnight Museum
     - Metallic Gill Grunt
     - Providing a .dump from a LightCore Rare Prism Break
+    - Ultimate Kaos Trap Variant ID info
 - Scarlett/eclipse_kyo
     - Heavy Metal Sprocket
     - Crystal Tuff Luck
