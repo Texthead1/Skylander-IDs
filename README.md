@@ -612,6 +612,7 @@ Thump Truck                          | 3226        | 16384
 Crypt Crusher                        | 3227        | 16384
 Stealth Stinger                      | 3228        | 16384
 Nitro Stealth Stinger                | 3228        | 17410
+Instant Stealth Stinger              | 3228        | 17423
 Dive Bomber                          | 3231        | 16384
 Spring Ahead Dive Bomber             | 3231        | 17410
 Instant Dive Bomber                  | 3231        | 17423
