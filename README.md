@@ -649,6 +649,7 @@ Skylander                             | CharacterID | VariantID
 Fiesta                                | 3400        | 16640
 Frightful Fiesta                      | 3400        | 17685
 High Volt                             | 3401        | 16640
+High Volt (Patina)                    | 3401        | 16670
 Splat                                 | 3402        | 16640
 Power Blue Splat                      | 3402        | 17666
 Stormblade                            | 3406        | 16640
@@ -790,3 +791,5 @@ DEBUG Ranger | 9992        | 12288
     - Green Riptide
     - Green Scorp
     - Red Dune Bug
+- Djdigby
+    - Patina High Volt
