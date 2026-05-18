@@ -425,7 +425,7 @@ Pain-Yatta                                  | 615         | 20480
 Pain-Yatta (Rock Candy)                     | 615         | 20513
 Mysticat                                    | 616         | 20480
 Starcast                                    | 617         | 20480
-Starcast (Clear/Happy Birthday Ben?)        | 617         | 20513
+Starcast (Clear/Happy Birthday Ben)         | 617         | 20513
 Buckshot                                    | 618         | 20480
 Heartbreaker Buckshot (UNRELEASED)          | 618         | 21516
 Aurora                                      | 619         | 20480
@@ -793,3 +793,4 @@ DEBUG Ranger | 9992        | 12288
     - Red Dune Bug
 - Djdigby
     - Patina High Volt
+    - Clear Starcast
