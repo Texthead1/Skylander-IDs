@@ -203,7 +203,7 @@ Skylander                              | CharacterID | VariantID
 ---------------------------------------|-------------|----------
 Anvil Rain                             | 200         | 0
 Hidden Treasure                        | 201         | 0
-Platinum Hidden Treasure (UNRELEASED)  | 201         | 4096
+Platinum Treasure Chest  (UNRELEASED)  | 201         | 2
 Healing Elixir                         | 202         | 0
 Ghost Pirate Swords                    | 203         | 0
 Time Twister Hourglass                 | 204         | 0
