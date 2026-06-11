@@ -749,6 +749,7 @@ Fusion          | 4500        | 20480
 Synergy         | 4501        | 20480
 Unity           | 4502        | 20480
 BlueFalcon_Base | 4503        | 20480
+Undead Card     | 4517        | 20480
 ### SuperChargers Template Vehicles
 Skylander             | CharacterID | VariantID
 ----------------------|-------------|----------
@@ -775,6 +776,7 @@ DEBUG Ranger | 9992        | 12288
     - Providing a .dump from a LightCore Rare Prism Break
     - Ultimate Kaos Trap Variant ID defect info
     - Mobile Hot Streak
+    - Bringing Undead Card's toy identifier entries to my attention
 - Scarlett/eclipse_kyo
     - Heavy Metal Sprocket
     - Crystal Tuff Luck
