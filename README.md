@@ -22,7 +22,7 @@ Skylanders, Spyro, Activision, and other intellectual properties are owned by Ac
 #### [Villain Drivers/Vehicles](#villain-driversvehicles-1)
 #### [SuperChargers Trophies](#superchargers-trophies-1)
 #### [Skylanders 2016](#skylanders-2016-1)
-#### [Imaginators Test Characters (WiP)](#imaginators-test-characters-wip-1)
+#### [Imaginators Test Characters](#imaginators-test-characters-1)
 #### [SuperChargers Template Vehicles](#superchargers-template-vehicles-1)
 #### [Trap Team DEBUG Characters](#trap-team-debug-characters-1)
 ## Info
@@ -750,7 +750,7 @@ Fusion          | 4500        | 20480
 Synergy         | 4501        | 20480
 Unity           | 4502        | 20480
 BlueFalcon_Base | 4503        | 20480
-### Imaginators Test Characters (WiP)
+### Imaginators Test Characters
 Skylander            | CharacterID | VariantID
 ---------------------|-------------|----------
 Undead Card          | 4517        | 20480
@@ -760,6 +760,14 @@ CYOS_Large_Template  | 4521        | 20480
 Medium Generic Base  | 4522        | 20480
 Quickshot            | 4523        | 20480
 Sorcerer             | 4525        | 20480
+Brawler              | 4526        | 20480
+Smasher              | 4527        | 20480
+Sentinel             | 4528        | 20480
+Ninja                | 4529        | 20480
+Swashbuckler         | 4530        | 20480
+Bazooker             | 4531        | 20480
+Knight               | 4533        | 20480
+Bowslinger           | 4534        | 20480
 ### SuperChargers Template Vehicles
 Skylander             | CharacterID | VariantID
 ----------------------|-------------|----------
