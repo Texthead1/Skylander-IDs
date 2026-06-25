@@ -642,8 +642,8 @@ Skylander          | CharacterID | VariantID
 -------------------|-------------|----------
 Sheep Wreck Island | 3300        | 8192
 Tower of Time      | 3301        | 8192
-Fiery Forge        | 3301        | 8710
-Arkeyan Crossbow   | 3302        | 8710
+Fiery Forge        | 3302        | 8710
+Arkeyan Crossbow   | 3303        | 8710
 ### SuperChargers
 Skylander                             | CharacterID | VariantID
 --------------------------------------|-------------|----------
