@@ -175,6 +175,7 @@ Legendary Chill (LightCore)     | 106         | 5635
 Blizzard Chill                  | 106         | 10245
 Thumpback                       | 107         | 4614
 Pop Fizz                        | 108         | 4096
+Pop Fizz (LightCore)            | 108         | 4614
 Punch Pop Fizz                  | 108         | 5122
 Super Gulp Pop Fizz             | 108         | 10245
 Fizzy Frenzy Pop Fizz           | 108         | 14341
