@@ -567,7 +567,7 @@ Fryno                    | 3004        | 8192
 Hog Wild Fryno           | 3004        | 14341
 Smolderdash              | 3005        | 8192
 Smolderdash (LightCore)  | 3005        | 8710
-Snowderdash (???)        | 3005        | 8729
+Snowderdash              | 3005        | 8729
 Bumble Blast             | 3006        | 8192
 Bumble Blast (LightCore) | 3006        | 8710
 Jolly Bumble Blast       | 3006        | 9218
@@ -816,5 +816,6 @@ DEBUG Ranger | 9992        | 12288
     - Green Scorp
     - Red Dune Bug
 - Djdigby
+    - Snowderdash
     - Patina High Volt
     - Clear Starcast
