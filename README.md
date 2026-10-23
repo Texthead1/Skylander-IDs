@@ -450,9 +450,9 @@ Wild Storm                                  | 628         | 20480
 Tidepool                                    | 629         | 20480
 Crash Bandicoot                             | 630         | 20480
 Dr. Neo Cortex                              | 631         | 20480
-Create Your Own Skylander (Card)            | 661         | 20481
-Create Your Own Skylander (Foil Card)       | 661         | 20482
-Create Your Own Skylander (Special Card)    | 661         | 20483
+Create Your Own Skylander (Card)            | 660         | 20481
+Create Your Own Skylander (Foil Card)       | 660         | 20482
+Create Your Own Skylander (Special Card)    | 660         | 20483
 Create Your Own Skylander (3D Print)        | 661         | 20484
 Create Your Own Skylander (Medium 3D Print) | 661         | 20485
 Create Your Own Skylander (Large 3D Print)  | 661         | 20486
